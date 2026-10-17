@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 01 — Introduction to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | <!-- one line description --> MIFFY|
+| `1b`     | <!-- one line description --> Bubbles|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,11 +22,14 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+     Forming visuals using geometric shapes in p5.js. I like miffy hehe so I tried recreating it by breaking it down into the geometric shapes which played with filling solid shapes and lines. For the second activity, I went for a more abstract visual of bubbles breaking it into the colours youe would see in bubbles and the shapes (circle). I also included the square visual to contrast the constant repition of circles.
+
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/Activity1a_image.png)
+![screenshot](readme-assets/Activity1b_image1.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
