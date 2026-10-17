@@ -11,7 +11,7 @@
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
 | `8a`     | <!-- one line description --> Played around with LED lights |
-| `8b`     | <!-- Played around with different sensors --> |
+| `8b`     | <!-- one line description --> Played around with different sensors|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -29,6 +29,9 @@
 ### Output
 
 ![screenshot](readme-assests/Activity8a_Image3.jpg)
+![screenshot](readme-assests/Activity8b_Image1.jpg)
+![screenshot](readme-assests/Activity8b_Image2.jpg)
+![screenshot](readme-assests/Activity8b_Image3.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
