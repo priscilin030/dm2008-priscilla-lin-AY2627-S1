@@ -21,11 +21,14 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+     I changed the balls to bounce against the wall, similar to how I did it last week. It reminded me a lot of the DVD bouncing screen I would watch so closely as a kid. I would like to try changing the colour as well when it collides with wall but for now the balls change colour when it collides into each other.
+
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/Activity5a_Image1.png)
+![screenshot](readme-assets/Activity5a_Image2.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

@@ -28,8 +28,8 @@
 
 ### Output
 
-[Watch Online](readme-assets/Activity3a_video1.mp4)
-[Watch Online](readme-assets/Activity3b_video2.mp4)
+![screenshot](readme-assets/Activity3a_Image2.png)
+![screenshot](readme-assets/Activity 3b_image.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

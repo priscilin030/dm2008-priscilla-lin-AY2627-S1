@@ -22,11 +22,14 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+     I struggled to understand this week as well. I think the code is getting more confusing but I tried to push each activity as much as possible. For the first activity, I added more flavours the cookie can turn into. In the second activity, I managed to make the balls bounce and changed the colour to look like blueberries. 
+
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/Activity4a_Image1.png)
+![screenshot](readme-assets/Activity4b_Image2.png)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
