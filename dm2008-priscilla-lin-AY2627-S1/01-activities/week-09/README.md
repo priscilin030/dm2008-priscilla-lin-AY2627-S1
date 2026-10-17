@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `8a`     | <!-- one line description --> Played around with LED lights |
-| `8b`     | <!-- one line description --> Played around with different sensors|
+| `8a`     | <!-- one line description --> LED lights |
+| `8b`     | <!-- one line description --> Sensors|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
