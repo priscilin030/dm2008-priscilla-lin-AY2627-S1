@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `9a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `9`     | <!-- one line description --> Sensor to LED|
+
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -22,11 +22,15 @@
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
+     We connected and LED light to a sensor, fading the brightness relative to the distance. We pushed it further and added another LED which does the opposite to the first.
+
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/Activity9_Image1.jpg)
+![screenshot](readme-assets/Activity9_Image2.jpg)
+![screenshot](readme-assets/Activity9_Image3.jpg)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
