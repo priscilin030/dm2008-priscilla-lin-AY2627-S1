@@ -3,10 +3,12 @@ let connectBtn;
 let wasOpened = false; // tracks port state to update the button label
 
 let sensorVal;
-let circleSize = 50;
+// let circleSize = 50;
 let targetSize = 50; // used for Option 2
+let marioImg, brickImg, shroomImg, bgImg;
+let marioSize = 50; // current width of Mario (px)
 
-function setup() {
+async function setup() {
   createCanvas(windowWidth, windowHeight);
   port = createSerial(); // creates the Serial Port
 
@@ -14,11 +16,23 @@ function setup() {
   connectBtn = createButton("Connect to Arduino");
   connectBtn.position(20, 20);
   connectBtn.mousePressed(connectBtnClick);
+  brickImg = await loadImage("assets/brick.png");
+  marioImg = await loadImage("assets/mario.png");
+  shroomImg = await loadImage("assets/megamushroom.png");
+  bgImg = await loadImage("assets/background.jpg");
 }
 
 function draw() {
   background(100);
-  ellipse(width / 2, height / 2, circleSize);
+  // ellipse(width / 2, height / 2, circleSize);
+  if (marioImg) {
+    imageMode(CENTER);
+    image(bgImg, width / 2, height / 2, width, height);
+    let h = marioImg.height * (marioSize / marioImg.width);
+    image(brickImg, width / 2, height / 2 - 70, 40, 30);
+    image(shroomImg, width / 2, height / 2 - 108, 50, 44);
+    image(marioImg, width / 2, height / 2, marioSize, h);
+  }
 
   updateConnectBtn();
 
@@ -46,10 +60,10 @@ function draw() {
         // Update circle's size using lerp() to smoothly change values
         // This method even works with longer delay() values in Arduino
 
-        // map distance (5-100cm) to circle size: closer = bigger
-        targetSize = map(val, 5, 100, 400, 50);
+        // map distance (5-100cm) to mario size: further = bigger
+        targetSize = map(val, 5, 100, 50, 400);
         // last value in lerp() controls speed of change
-        circleSize = lerp(circleSize, targetSize, 0.1);
+        marioSize = lerp(marioSize, targetSize, 0.1);
       }
     }
   }
