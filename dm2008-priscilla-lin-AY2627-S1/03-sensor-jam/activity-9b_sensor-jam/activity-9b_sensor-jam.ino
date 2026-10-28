@@ -1,4 +1,4 @@
-// DM2008 — Activity 9a
+// DM2008 — Activity 9b
 // Mapping Sensors (30 min)
 //
 // Adjust and refine until the response feels smooth and natural.
