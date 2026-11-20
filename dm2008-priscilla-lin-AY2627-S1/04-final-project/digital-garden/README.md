@@ -16,9 +16,9 @@
 
 ### Output
 
-![screenshot](readme-assets\image-01.png)
-![screenshot](readme-assets\image-04-independent-sqaures-stages.png)
-![screenshot](readme-assets\image-09-status-icon-bob.png)
+![screenshot](readme-assets/image-01.png)
+![screenshot](readme-assets/image-04-independent-sqaures-stages.png)
+![screenshot](readme-assets/image-09-status-icon-bob.png)
 
 <!-- Drop a screenshot or GIF of your project.
      Got more to show? Add more images — let the work speak for itself.
